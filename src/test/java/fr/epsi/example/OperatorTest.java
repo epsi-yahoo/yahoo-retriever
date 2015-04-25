@@ -29,7 +29,7 @@ public class OperatorTest {
 	public void addTest2() {
 		// TODO
 		Operator operator = new Operator();
-		assertEquals(5, operator.add(2, 7));
+		assertEquals(5, operator.add(2, 3));
 		System.out.println("execute");
 	}
 	
